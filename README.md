@@ -1,5 +1,6 @@
 # emotional_chatbot
 ![emotion4](https://github.com/nwsugz/emotional_chatbot/assets/67831968/67b41102-9ea2-4fa9-8ec6-c2b178ddfe30)
+![emotion_chat3](https://github.com/nwsugz/emotional_chatbot/assets/67831968/318457de-5078-412d-90a4-c370f2892b2a)
 
 
 ### Requirement
