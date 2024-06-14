@@ -1,9 +1,10 @@
 # WASSUP_FinalProject_team6
-## EST soft WASSUP AI 개발과정 2기 파이널 프로젝트
 <img width="1134" alt="시연" src="https://github.com/nwsugz/emotional_chatbot/assets/67831968/f8dc2b8e-d7a9-4c7f-b77a-71749271740a">
 
 
+## EST soft WASSUP AI 개발과정 2기 파이널 프로젝트
 <img src = 'imgs/team_logo.png' width="200" height="200"/>
+
 **(Team 6)**
 **팀원 및 담당 업무**
   + 김형범
