@@ -1,5 +1,6 @@
 # WASSUP_FinalProject_team6
-<img width="1841" alt="전체" src="https://github.com/nwsugz/emotional_chatbot/assets/67831968/95f21cdb-1b2c-4ffb-ab40-fceba783426b">
+<img width="1831" alt="emotion_chatbot이미지" src="https://github.com/nwsugz/emotional_chatbot/assets/67831968/e1b628cf-8d86-4e90-a083-c3c4399d7a76">
+
 
 
 
