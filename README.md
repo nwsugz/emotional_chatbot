@@ -1,5 +1,7 @@
 # WASSUP_FinalProject_team6
 <img width="1134" alt="시연" src="https://github.com/nwsugz/emotional_chatbot/assets/67831968/f8dc2b8e-d7a9-4c7f-b77a-71749271740a">
+<img width="301" alt="모델 구조" src="https://github.com/nwsugz/emotional_chatbot/assets/67831968/22fef7cc-9f9c-4775-9a1a-73b0f5bf2b86">
+
 
 
 ## EST soft WASSUP AI 개발과정 2기 파이널 프로젝트
